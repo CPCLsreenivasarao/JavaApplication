@@ -1,2 +1,2 @@
 # JavaApplication
-NewJava Application
+this is NewJava Application
